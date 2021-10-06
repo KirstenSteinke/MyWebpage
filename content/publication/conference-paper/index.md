@@ -27,7 +27,7 @@ publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: My publications
+summary: my publications
 tags:
 - Source Themes
 title: An example conference paper
